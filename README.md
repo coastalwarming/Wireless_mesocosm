@@ -2,7 +2,7 @@ Wireless_mesocosm
 ========================================
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><img src="Images/esocosm_Field.png" alt="Mesocosm 1 Image" width="300"></td>
+   <td><img src="Images/Mesocosm_Field.png" alt="Mesocosm 1 Image" width="300"></td>
    <td><img src="Images/Mesocosm_3D.png" alt="Mesocosm 2 Image" width="300"></td>
   </tr>
 </table>
